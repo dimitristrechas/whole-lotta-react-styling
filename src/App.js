@@ -1,26 +1,20 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import TestCss from "./Components/TestCss/TestCss";
+import TestSass from "./Components/TestSass/TestSass";
+import TestCssModule from "./Components/TestCssModule/TestCssModule";
+import TestSassModule from "./Components/TestSassModule/TestSassModule";
+import TestEmotion from "./Components/TestEmotion/TestEmotion";
+import TestJss from "./Components/TestJss/TestJss";
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{ margin: "2rem" }}>
+      <TestCss />
+      <TestSass />
+      <TestCssModule />
+      <TestSassModule />
+      <TestEmotion />
+      <TestJss />
     </div>
   );
 }
-
-export default App;
