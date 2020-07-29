@@ -1,7 +1,7 @@
 $color: pink;
 $breakpoint-tablet: 768px;
 
-.parent {
+.parent-sass {
   background-color: lightgrey;
   border: 1px solid black;
   border-radius: 1rem;
@@ -15,14 +15,14 @@ $breakpoint-tablet: 768px;
     max-width: 20rem;
   }
 
-  .child1 {
+  .child1-sass {
     background-color: blue;
     opacity: 0.6;
     margin: 1rem;
     padding: 1rem;
     display: inline-block;
   }
-  .child2 {
+  .child2-sass {
     background-color: teal;
     opacity: 0.6;
     margin: 1rem;
