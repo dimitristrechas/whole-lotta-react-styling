@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/dimitristrechas/whole-lotta-react-styling/static/css/main.555443a3.chunk.css",
-    "main.js": "/dimitristrechas/whole-lotta-react-styling/static/js/main.5c8fead9.chunk.js",
-    "main.js.map": "/dimitristrechas/whole-lotta-react-styling/static/js/main.5c8fead9.chunk.js.map",
-    "runtime-main.js": "/dimitristrechas/whole-lotta-react-styling/static/js/runtime-main.bcdf95c1.js",
-    "runtime-main.js.map": "/dimitristrechas/whole-lotta-react-styling/static/js/runtime-main.bcdf95c1.js.map",
-    "static/js/2.098d9ca9.chunk.js": "/dimitristrechas/whole-lotta-react-styling/static/js/2.098d9ca9.chunk.js",
-    "static/js/2.098d9ca9.chunk.js.map": "/dimitristrechas/whole-lotta-react-styling/static/js/2.098d9ca9.chunk.js.map",
-    "index.html": "/dimitristrechas/whole-lotta-react-styling/index.html",
-    "precache-manifest.b08b89fac8fcba6b8fb0474ee90150d0.js": "/dimitristrechas/whole-lotta-react-styling/precache-manifest.b08b89fac8fcba6b8fb0474ee90150d0.js",
-    "service-worker.js": "/dimitristrechas/whole-lotta-react-styling/service-worker.js",
-    "static/css/main.555443a3.chunk.css.map": "/dimitristrechas/whole-lotta-react-styling/static/css/main.555443a3.chunk.css.map",
-    "static/js/2.098d9ca9.chunk.js.LICENSE.txt": "/dimitristrechas/whole-lotta-react-styling/static/js/2.098d9ca9.chunk.js.LICENSE.txt"
+    "main.css": "/whole-lotta-react-styling/static/css/main.555443a3.chunk.css",
+    "main.js": "/whole-lotta-react-styling/static/js/main.5c8fead9.chunk.js",
+    "main.js.map": "/whole-lotta-react-styling/static/js/main.5c8fead9.chunk.js.map",
+    "runtime-main.js": "/whole-lotta-react-styling/static/js/runtime-main.e7d21e4d.js",
+    "runtime-main.js.map": "/whole-lotta-react-styling/static/js/runtime-main.e7d21e4d.js.map",
+    "static/js/2.098d9ca9.chunk.js": "/whole-lotta-react-styling/static/js/2.098d9ca9.chunk.js",
+    "static/js/2.098d9ca9.chunk.js.map": "/whole-lotta-react-styling/static/js/2.098d9ca9.chunk.js.map",
+    "index.html": "/whole-lotta-react-styling/index.html",
+    "precache-manifest.16ca2bb630ad29b63492bfe39236127f.js": "/whole-lotta-react-styling/precache-manifest.16ca2bb630ad29b63492bfe39236127f.js",
+    "service-worker.js": "/whole-lotta-react-styling/service-worker.js",
+    "static/css/main.555443a3.chunk.css.map": "/whole-lotta-react-styling/static/css/main.555443a3.chunk.css.map",
+    "static/js/2.098d9ca9.chunk.js.LICENSE.txt": "/whole-lotta-react-styling/static/js/2.098d9ca9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bcdf95c1.js",
+    "static/js/runtime-main.e7d21e4d.js",
     "static/js/2.098d9ca9.chunk.js",
     "static/css/main.555443a3.chunk.css",
     "static/js/main.5c8fead9.chunk.js"
