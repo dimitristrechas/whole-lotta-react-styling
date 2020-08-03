@@ -38,9 +38,7 @@ const TestJss = () => {
       <div className="component-wrapper">
         <div className={classes.parent}>
           <div className="card-content">
-            “Don’t let us forget that the causes of human actions are usually
-            immeasurably more complex and varied than our subsequent
-            explanations of them.”
+            “Don’t let... subsequent explanations of them.”
           </div>
           <div className="card-footer">― Fyodor Dostoevsky, The Idiot</div>
         </div>

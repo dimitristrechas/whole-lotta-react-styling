@@ -15,9 +15,7 @@ const TestSass = () => {
       <div className="component-wrapper">
         <div className="card">
           <div className="card-content">
-            “We sometimes encounter people, even perfect strangers, who begin to
-            interest us at first sight, somehow suddenly, all at once, before a
-            word has been spoken.”
+            “We sometime... word has been spoken.”
           </div>
           <div className="card-footer">
             ― Fyodor Dostoyevsky, Crime and Punishment

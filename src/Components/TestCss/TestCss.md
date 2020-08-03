@@ -15,7 +15,7 @@ const Test = () => {
       <h2>CSS Component</h2>
       <div className="component-wrapper">
         <div className="card">
-          <div className="card-content">“Above all..he ceases to love.”</div>
+          <div className="card-content">“Above all... he ceases to love.”</div>
           <div className="card-footer">
             ― Fyodor Dostoevsky, The Brothers Karamazov
           </div>

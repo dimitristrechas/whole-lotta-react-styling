@@ -15,8 +15,7 @@ const TestSassModule = () => {
       <div className="component-wrapper">
         <div className={styles.card}>
           <div className={styles.cardContent}>
-            “I can see the sun, but even if I cannot see the sun, I know that it
-            exists. And to know that the sun is there - that is living.”
+            “I can see the sun... that is living.”
           </div>
           <div className={styles.cardFooter}>
             ― Fyodor Dostoevsky, The Brothers Karamazov

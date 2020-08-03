@@ -15,10 +15,7 @@ const TestCSSModule = () => {
       <div className="component-wrapper">
         <div className={styles.card}>
           <div className={styles.cardContent}>
-            “Above all, don't lie to yourself. The man who lies to himself and
-            listens to his own lie comes to a point that he cannot distinguish
-            the truth within him, or around him, and so loses all respect for
-            himself and for others. And having no respect he ceases to love.”
+            “Above all, don't... to love.”
           </div>
           <div className={styles.cardFooter}>
             ― Fyodor Dostoevsky, The Brothers Karamazov

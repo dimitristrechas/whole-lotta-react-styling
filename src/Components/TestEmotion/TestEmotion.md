@@ -36,11 +36,7 @@ const TestEmotion = () => {
       <h2>Emotion Component</h2>
       <div className="component-wrapper">
         <Card>
-          <div className="card-content">
-            “The awful thing is that beauty is mysterious as well as terrible.
-            God and the devil are fighting there and the battlefield is the
-            heart of man.”
-          </div>
+          <div className="card-content">“The awful thing... of man.”</div>
           <div className="card-footer">
             ― Fyodor Dostoevsky, The Brothers Karamazov
           </div>
