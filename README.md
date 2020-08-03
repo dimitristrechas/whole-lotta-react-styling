@@ -4,6 +4,9 @@ This is an ongoing effort to represent different approaches to React component s
 
 ### Installation
 
-1. Clone repo
-2. npm install
-3. npm start
+```
+git clone https://github.com/dimitristrechas/whole-lotta-react-styling.git
+npm install
+npm start
+
+```
