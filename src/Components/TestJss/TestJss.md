@@ -1,3 +1,6 @@
+**TestJss.jsx**
+
+```js
 import React from "react";
 import { createUseStyles } from "react-jss";
 import ReactMarkdown from "react-markdown";
@@ -8,7 +11,7 @@ let color = "#ffebef";
 let breakpointTablet = "768px";
 
 const useStyles = createUseStyles({
-  card: {
+  parent: {
     backgroundColor: color,
     borderRadius: "0.25rem",
 
@@ -33,7 +36,7 @@ const TestJss = () => {
     <section>
       <h2>JSS Component</h2>
       <div className="component-wrapper">
-        <div className={classes.card}>
+        <div className={classes.parent}>
           <div className="card-content">
             “Don’t let us forget that the causes of human actions are usually
             immeasurably more complex and varied than our subsequent
@@ -50,3 +53,4 @@ const TestJss = () => {
 };
 
 export default TestJss;
+```

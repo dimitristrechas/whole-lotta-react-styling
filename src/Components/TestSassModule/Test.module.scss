@@ -1,32 +1,19 @@
-$color: pink;
+$color: #ffebef;
 $breakpoint-tablet: 768px;
 
-.parent {
-  background-color: lightgrey;
-  border: 1px solid black;
-  border-radius: 1rem;
-  padding: 1rem;
-  margin: 1rem;
-  font-weight: 900;
-  text-align: center;
-  color: $color;
+.card {
+  background-color: $color;
+  border-radius: 0.25rem;
 
   @media (min-width: $breakpoint-tablet) {
     max-width: 20rem;
   }
 
-  .child1 {
-    background-color: blue;
-    opacity: 0.6;
-    margin: 1rem;
+  .cardContent {
     padding: 1rem;
-    display: inline-block;
   }
-  .child2 {
-    background-color: teal;
-    opacity: 0.6;
-    margin: 1rem;
-    padding: 1rem;
-    display: inline-block;
+  .cardFooter {
+    padding: 0rem 1rem 1rem;
+    text-align: right;
   }
 }

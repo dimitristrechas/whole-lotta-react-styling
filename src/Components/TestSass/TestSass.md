@@ -1,3 +1,6 @@
+**TestSass.jsx**
+
+```js
 import React from "react";
 import ReactMarkdown from "react-markdown";
 import useMarkdown from "../../Hooks/useMarkdown";
@@ -29,3 +32,28 @@ const TestSass = () => {
 };
 
 export default TestSass;
+```
+
+**styles.scss**
+
+```css
+$color: #ffebef;
+$breakpoint-tablet: 768px;
+
+.card-sass {
+  border-radius: 0.25rem;
+  background-color: $color;
+
+  @media (min-width: $breakpoint-tablet) {
+    max-width: 20rem;
+  }
+
+  .card-content-sass {
+    padding: 1rem;
+  }
+  .cart-footer-sass {
+    padding: 0rem 1rem 1rem;
+    text-align: right;
+  }
+}
+```

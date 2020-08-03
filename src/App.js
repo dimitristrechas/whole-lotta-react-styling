@@ -5,10 +5,13 @@ import TestCssModule from "./Components/TestCssModule/TestCssModule";
 import TestSassModule from "./Components/TestSassModule/TestSassModule";
 import TestEmotion from "./Components/TestEmotion/TestEmotion";
 import TestJss from "./Components/TestJss/TestJss";
+import "github-markdown-css";
 
 export default function App() {
   return (
-    <div style={{ margin: "2rem" }}>
+    <div className="main">
+      <h1>Whole Lotta React Styling</h1>
+      <hr></hr>
       <TestCss />
       <TestSass />
       <TestCssModule />
