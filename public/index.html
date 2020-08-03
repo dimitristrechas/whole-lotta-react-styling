@@ -16,17 +16,34 @@
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <style>
+      header {
+        border-bottom: 1px solid darkgray;
+      }
       section {
         padding-bottom: 20px;
         border-bottom: 1px solid lightgray;
       }
-      .main {
+      section:last-of-type {
+        border: none;
+      }
+      .container {
         max-width: 800px;
         margin: 0 auto;
         padding: 0 2rem;
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
       }
       .component-wrapper {
         margin-bottom: 1rem;
+      }
+      footer {
+        text-align: right;
+      }
+      footer a {
+        text-decoration: none;
+        color: #2779bd;
+        font-size: 1.25rem;
       }
     </style>
     <div id="root"></div>
