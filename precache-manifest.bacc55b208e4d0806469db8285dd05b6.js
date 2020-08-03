@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03ff989cd3d9a2e24d9fb8c45e8a2609",
+    "revision": "7c85164700779e49cccb16a71b2c8751",
     "url": "/whole-lotta-react-styling/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/whole-lotta-react-styling/static/css/2.1bafa09e.chunk.css"
   },
   {
-    "revision": "3b979283eb4f3ddfe746",
+    "revision": "ae3618f831cd07365ced",
     "url": "/whole-lotta-react-styling/static/css/main.79f04787.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/whole-lotta-react-styling/static/js/2.1ee15768.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3b979283eb4f3ddfe746",
-    "url": "/whole-lotta-react-styling/static/js/main.a1823e01.chunk.js"
+    "revision": "ae3618f831cd07365ced",
+    "url": "/whole-lotta-react-styling/static/js/main.59969db2.chunk.js"
   },
   {
     "revision": "ba4f2f9ab79909e676b6",

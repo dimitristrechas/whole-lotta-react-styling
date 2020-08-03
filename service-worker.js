@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/whole-lotta-react-styling/precache-manifest.a5708bcea025cb02d6e6a2d28f12a7b1.js"
+  "/whole-lotta-react-styling/precache-manifest.bacc55b208e4d0806469db8285dd05b6.js"
 );
 
 self.addEventListener('message', (event) => {
