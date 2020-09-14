@@ -2,7 +2,6 @@
   "name": "whole-lotta-react-styling",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dimitristrechas.github.io/whole-lotta-react-styling",
   "dependencies": {
     "@emotion/core": "^10.0.28",
     "@emotion/styled": "^10.0.27",
